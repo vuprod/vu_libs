@@ -1,0 +1,13 @@
+# Still in the repo (clone / browse on GitHub).
+# Stripped from GitHub Release "Source code" zip/tar.gz via git archive.
+
+web/src/ export-ignore
+web/public/ export-ignore
+web/package.json export-ignore
+web/package-lock.json export-ignore
+web/tsconfig.json export-ignore
+web/tsconfig.node.json export-ignore
+web/vite.config.mjs export-ignore
+web/index.html export-ignore
+web/style.css export-ignore
+web/.gitignore export-ignore
